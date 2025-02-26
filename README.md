@@ -8,7 +8,7 @@
 👑 Fundador do servidor Hytrix Network;<br>
 🕹️ Co-Fundador do Rede Shard;<br>
 🌟 Co-Fundador do Rede Abyss;<br>
-🛠️ Master do Rede Luxus;<br>
+🛠️ Master do Rede Luxus.<br>
 </p>
 
 ### 💻 &nbsp;Linguagens de programação e desenvolvimento:
