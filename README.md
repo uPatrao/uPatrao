@@ -1,5 +1,5 @@
 # <p align="center">Perfil de itspatrao<br /><img src="https://komarev.com/ghpvc/?username=itspatrao1619&color=blue&style=flat-square&label=Profile+Views" /></p>
-<p align="center">Programador iniciante de JavaScript procurando sempre fornecer as melhores soluções, iniciando na área Java tambem, Usuário de IntelliJ idea, Sublime Text e Visual Studio Code.</p>
+<p align="center">Programador JavaScript em busca de soluções inovadoras e eficientes, com experiência inicial no desenvolvimento de plugins para Minecraft 1.8.X. Usuário hábil de Visual Studio Code, IntelliJ IDEA e Sublime Text, sempre em busca de novos desafios e conhecimentos, aprendendo constantemente para aplicar as melhores práticas no desenvolvimento.</p>
 
 ## 🧑 Sobre mim:
 <p>
