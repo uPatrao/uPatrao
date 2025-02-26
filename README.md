@@ -13,8 +13,8 @@
 
 ### 💻 &nbsp;Linguagens de programação e desenvolvimento:
 ![Java](https://img.shields.io/badge/java-%239b44c7.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
 ## 📈 Estatísticas
 
