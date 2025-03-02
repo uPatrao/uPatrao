@@ -5,10 +5,7 @@
 <p>
 ☕ Programador experiente na biblioteca `Discord.js` em JavaScript;<br>
 🎓 Programador iniciante Java;<br>
-👑 Fundador do servidor Hytrix Network;<br>
-🕹️ Co-Fundador do Rede Shard;<br>
-🌟 Co-Fundador do Rede Abyss;<br>
-🛠️ Master do Rede Luxus.<br>
+👑 Fundador do Hytrix Network;<br>
 </p>
 
 ### 💻 &nbsp;Linguagens de programação e desenvolvimento:
