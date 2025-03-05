@@ -13,12 +13,9 @@
 ![Java](https://img.shields.io/badge/java-%239b44c7.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 
-## 📈 Estatísticas
 
-<br/>
-<p align="center">
+## 📈 Estatísticas
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=itspatrao&locale=pt-br&theme=synthwave&custom_title=➥+Horas+Desenvolvendo&hide_title=false&show_icons=true&hide=ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,JAVAini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=itspatrao&theme=synthwave&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
-</p>
