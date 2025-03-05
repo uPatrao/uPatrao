@@ -1,4 +1,4 @@
-# Olá 👋<br /><img src="https://komarev.com/ghpvc/?username=itspatrao1619&color=blue&style=flat-square&label=Profile+Views" />
+# <p align="center">Olá 👋<br /><img src="https://komarev.com/ghpvc/?username=itspatrao1619&color=blue&label=Profile+Views" /></p>
 
 ## 🧑 Hobbies:
 
