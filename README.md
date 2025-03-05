@@ -3,7 +3,7 @@
 
 ## 🧑 Sobre mim:
 
-- 👑 Fundador do <a href"https://discord.gg/zC5he9gQww">Hytrix Network</a>;
+- 👑 Fundador do <a href="https://discord.gg/zC5he9gQww">Hytrix Network</a>;
 - 🎮 Jogar **Minecraft Factions** com amigos;
 
 
