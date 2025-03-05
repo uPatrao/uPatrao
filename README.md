@@ -3,9 +3,8 @@
 
 ## 🧑 Sobre mim:
 
-☕ Programador experiente na biblioteca `Discord.js` em JavaScript;<br>
-🎓 Programador iniciante Java;<br>
-👑 Fundador do Hytrix Network;<br>
+- 👑 Fundador do <a href"https://discord.gg/zC5he9gQww">Hytrix Network</a>;
+- 🎮 Jogar **Minecraft Factions** com amigos;
 
 
 ## 💻 Conhecimento
