@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Gustavo Lanzeloti <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=uPatrao&color=blue&label=Visualizações"/></h1>
+<h1 align="center">Olá, me chamo Gustavo Lanzeloti <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=uPatrao&color=blue&label=Visualizações"/></h1>
 
 <p align="center">....</p>
 
@@ -13,3 +13,5 @@
 
 ## 📈 Estatísticas
 ![Contributions](https://github-readme-stats.vercel.app/api?username=uPatrao&theme=tokyonight&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPatrao&layout=compact&theme=tokyonight&hide_title=true&langs_count=10)
