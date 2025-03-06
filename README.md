@@ -12,4 +12,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📈 Estatísticas
-![Contributions](https://github-readme-stats.vercel.app/api?username=itspatrao&theme=tokyonight&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
+![Contributions](https://github-readme-stats.vercel.app/api?username=uPatrao&theme=tokyonight&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
