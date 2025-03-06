@@ -1,4 +1,4 @@
-# <p align="center">Olá 👋<br /><img src="https://komarev.com/ghpvc/?username=uPatrao&color=blue&label=Visualizações-no-perfil" /></p>
+# <p align="center">Olá 👋<br /><img src="https://komarev.com/ghpvc/?username=uPatrao&color=blue&label=Visualizações" /></p>
 
 <p align="center">Jovem de 19 anos amante de tecnologia e viciado em aprender coisas novas e enfrentar novos desafios.</p>
 
