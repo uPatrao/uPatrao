@@ -14,4 +14,4 @@
 ## 📈 Estatísticas
 ![Contributions](https://github-readme-stats.vercel.app/api?username=uPatrao&theme=tokyonight&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPatrao&theme=tokyonight&hide_title=true&langs_count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPatrao&layout=compact&theme=tokyonight&hide_title=true&langs_count=10)
