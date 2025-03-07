@@ -1,6 +1,6 @@
-<h1 align="center">Olá, me chamo Gustavo Lanzeloti <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=uPatrao&color=blue&label=Visualizações"/></h1>
+<h1 align="center">Olá, me chamo Gustavo Lanzeloti <img width="40" align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><br /><img src="https://komarev.com/ghpvc/?username=itspatrao&color=blue&label=Visualizações"/></h1>
 
-<p align="center">....</p>
+<p align="center">...</p>
 
 ## 🧑 Hobbies:
 
@@ -12,6 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📈 Estatísticas
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uPatrao&layout=compact&theme=gotham&hide_title=true&langs_count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itspatrao&layout=compact&theme=gotham&hide_title=true&langs_count=10)
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=uPatrao&theme=gotham&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
+![Contributions](https://github-readme-stats.vercel.app/api?username=itspatrao&theme=gotham&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
